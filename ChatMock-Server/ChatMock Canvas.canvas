@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"ff0b52ff78f6d0e1","x":200,"y":-604,"width":360,"height":1764,"color":"3","type":"file","file":"♛ Ops Hub/Systems/ChatMock-Server/COPILOT_SETUP.md"},
+		{"id":"91f61275c81daf0d","x":-280,"y":-604,"width":400,"height":1764,"color":"5","type":"file","file":"♛ Ops Hub/Systems/ChatMock-Server/OBSIDIAN_INTEGRATION.md"},
+		{"id":"9f084074e0c0c18f","x":640,"y":-604,"width":400,"height":1764,"type":"file","file":"♛ Ops Hub/Systems/ChatMock-Server/SETUP.md"},
+		{"id":"2c6c0cdd59792d27","x":-280,"y":-800,"width":611,"height":69,"type":"file","file":"♛ Ops Hub/Systems/ChatMock-Server/start_chatmock.sh"},
+		{"id":"8a353b74ea173e60","x":-1160,"y":-604,"width":800,"height":1764,"color":"4","type":"file","file":"♛ Ops Hub/Systems/ChatMock-Server/STEP_BY_STEP_GUIDE.md"}
+	],
+	"edges":[]
+}
